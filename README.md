@@ -15,6 +15,11 @@
 
 <h3 align="left">Projects link:</h3>
 
+|             Project            |                               Description                              |     Skills    |     Link      |
+|:------------------------------:|:----------------------------------------------------------------------:|:-------------:|:-------------:|
+|        Personal Website        |          A basic website to get familiar with frontend design          | HTML, CSS, JS |  [My Website](https://htmlpreview.github.io/?https://github.com/alicekyting/alicekyting.github.io/blob/main/Assignment%201/index.html)  |
+| Canberra Public Transportation |                UI Design: create a prototype for the app               |     Figma     |   [App Interactive Prototype](https://www.figma.com/proto/JBLCtnOYuWMbPyxmCj8HOY/Transport-App-Interface?type=design&node-id=1-2&t=LsSpuR69r6GKOm88-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)   |
+|      Java Game Development     | Developed a board game called Blue Lagoon in both frontend and backend |      Java     |   [Presentation](https://anu365-my.sharepoint.com/:v:/g/personal/u7630748_anu_edu_au/Ecl38cIDTrRJrjlsQHnrNN4BCzg9zNZZhhm2I0j62JbAQA?e=1wYbHo)   |
 
 <p align="left">
 </p>
